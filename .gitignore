@@ -1,0 +1,10 @@
+# R projects
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+*.Rdata
+
+# Windows thumbnail cache files
+Thumbs.db
